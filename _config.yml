@@ -76,11 +76,11 @@ sphinx:
     napoleon_google_docstring: true
     napoleon_numpy_docstring: true
     html_theme_options:        
-      repository_url: "https://gitlab.com/nocomplexity/simplepub"
+      repository_url: "https://gitlab.com/nocomplexity/simplifyprivacy"
       repository_branch: "master" 
-      use_repository_button: True
-      use_edit_page_button: True
-      use_issues_button: True           
+      use_repository_button: False
+      use_edit_page_button: False
+      use_issues_button: False           
       logo:
            text: <b>Simplify Digital Privacy</b>
       extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> (c)Copyright 2024.  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'

@@ -7,11 +7,22 @@
 :::{grid-item-card}
 :link: whonix
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Whonix**        
+{octicon}`tools;1em;caption-text` **Whonix**        
 ^^^
 Use and reuse Whonix solutions
 +++
 [More »](whonix)
+:::
+
+
+:::{grid-item-card}
+:link: briar
+:link-type: doc
+{octicon}`note;1em;caption-text` **Briar**        
+^^^
+Use and reuse Briar solutions
++++
+[More »](briar)
 :::
 
 

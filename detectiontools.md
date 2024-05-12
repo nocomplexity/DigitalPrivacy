@@ -1,17 +1,17 @@
-# Collaboration Tools solutions 
+# Detection Tools solutions 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: cryptpad
+:link: amiunique
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **CryptPad**        
+{octicon}`cross-reference;1em;caption-text` **Amiunique**        
 ^^^
-Use and reuse CryptPad solutions
+Use and reuse Amiunique solutions
 +++
-[More »](cryptpad)
+[More »](amiunique)
 :::
 
 

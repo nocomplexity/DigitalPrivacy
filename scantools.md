@@ -1,17 +1,17 @@
-# Collaboration Tools solutions 
+# Scan Tools solutions 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: cryptpad
+:link: mozillamonitor
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **CryptPad**        
+{octicon}`note;1em;caption-text` **Mozilla Monitor**        
 ^^^
-Use and reuse CryptPad solutions
+Use and reuse Mozilla Monitor solutions
 +++
-[More »](cryptpad)
+[More »](mozillamonitor)
 :::
 
 

@@ -10,9 +10,11 @@ parts:
   chapters:
   - file: overview
     sections:
-    - file: collaborationtools
-    - file: encryptiontools
     - file: communicationtools
+    - file: detectiontools
+    - file: encryptiontools
+    - file: scantools
+
 
 - caption: About
   chapters:

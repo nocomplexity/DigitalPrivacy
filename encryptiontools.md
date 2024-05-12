@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: securedrop
 :link-type: doc
-{octicon}`tag;1em;caption-text` **SecureDrop**        
+{octicon}`heart;1em;caption-text` **SecureDrop**        
 ^^^
 Use and reuse SecureDrop solutions
 +++
@@ -18,7 +18,7 @@ Use and reuse SecureDrop solutions
 :::{grid-item-card}
 :link: cloak
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Cloak**        
+{octicon}`project;1em;caption-text` **Cloak**        
 ^^^
 Use and reuse Cloak solutions
 +++

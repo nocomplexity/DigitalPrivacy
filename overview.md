@@ -5,9 +5,19 @@
 :gutter: 3 
 
 :::{grid-item-card}
+:link: detectiontools
+:link-type: doc
+{octicon}`note;1em;caption-text` **Detection Tools**        
+^^^
+Use and reuse Detection Tools solutions
++++
+[More »](detectiontools)
+:::
+
+:::{grid-item-card}
 :link: collaborationtools
 :link-type: doc
-{octicon}`project;1em;caption-text` **Collaboration Tools**        
+{octicon}`smiley;1em;caption-text` **Collaboration Tools**        
 ^^^
 Use and reuse Collaboration Tools solutions
 +++
@@ -15,23 +25,33 @@ Use and reuse Collaboration Tools solutions
 :::
 
 :::{grid-item-card}
-:link: encryptiontools
-:link-type: doc
-{octicon}`check-circle;1em;caption-text` **Encryption Tools**        
-^^^
-Use and reuse Encryption Tools solutions
-+++
-[More »](encryptiontools)
-:::
-
-:::{grid-item-card}
 :link: communicationtools
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **Communication Tools**        
+{octicon}`briefcase;1em;caption-text` **Communication Tools**        
 ^^^
 Use and reuse Communication Tools solutions
 +++
 [More »](communicationtools)
+:::
+
+:::{grid-item-card}
+:link: scantools
+:link-type: doc
+{octicon}`hubot;1em;caption-text` **Scan Tools**        
+^^^
+Use and reuse Scan Tools solutions
++++
+[More »](scantools)
+:::
+
+:::{grid-item-card}
+:link: encryptiontools
+:link-type: doc
+{octicon}`cross-reference;1em;caption-text` **Encryption Tools**        
+^^^
+Use and reuse Encryption Tools solutions
++++
+[More »](encryptiontools)
 :::
 
 ::::
