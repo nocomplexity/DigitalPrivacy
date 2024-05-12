@@ -1,0 +1,21 @@
+format: jb-book
+root: intro
+title: Welcome
+parts:
+- caption: Essentials  
+  chapters:
+  - file: coreprinciples
+  - file: foundations
+- caption: Privacy solutions
+  chapters:
+  - file: overview
+    sections:
+    - file: collaborationtools
+    - file: encryptiontools
+    - file: communicationtools
+
+- caption: About
+  chapters:
+  - file: help
+  - file: bio  
+  - file: license
