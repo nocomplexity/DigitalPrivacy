@@ -6,7 +6,7 @@ Technology will continue to enrich our lives and enable new possibilities for th
 
 New digital innovations enable new opportunities. Innovations to make our lives better and to solve real people problems on planet Earth. Today, the internet connects us all.
 
-Besides privacy killing big-tech solutions even more open transparent solutions that are no threat to our privacy are available. We advocate for radical open transparent innovative digital solutions to enable progress. [Help us](help.md), so together we can make real IT innovations that have no impact on your digital privacy a reality. 
+Besides privacy killing big-tech solutions, open transparent solutions that are no threat to our privacy are available. We advocate for radical open transparent innovative digital solutions to enable progress. [Help us](help.md), so together we can make real IT innovations that have no impact on your digital privacy a reality. 
 
 ```{admonition} Your digital privacy is fundamental!
 :class: warning, dropdown
