@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: amiunique
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **Amiunique**        
+{octicon}`bookmark;1em;caption-text` **Amiunique**        
 ^^^
 Use and reuse Amiunique solutions
 +++

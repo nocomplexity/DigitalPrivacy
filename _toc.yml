@@ -5,11 +5,14 @@ parts:
 - caption: Essentials  
   chapters:
   - file: coreprinciples
+  - file: security-or-privacy
   - file: foundations
 - caption: Privacy solutions
   chapters:
   - file: overview
     sections:
+    - file: authentication
+    - file: browsingtools
     - file: collaborationtools
     - file: communicationtools
     - file: detectiontools

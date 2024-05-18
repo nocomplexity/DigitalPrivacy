@@ -18,11 +18,66 @@ Use and reuse Whonix solutions
 :::{grid-item-card}
 :link: briar
 :link-type: doc
-{octicon}`note;1em;caption-text` **Briar**        
+{octicon}`bookmark;1em;caption-text` **Briar**        
 ^^^
 Use and reuse Briar solutions
 +++
 [More »](briar)
+:::
+
+
+:::{grid-item-card}
+:link: diaspora
+:link-type: doc
+{octicon}`telescope;1em;caption-text` **Diaspora**        
+^^^
+Use and reuse Diaspora solutions
++++
+[More »](diaspora)
+:::
+
+
+:::{grid-item-card}
+:link: freedombox
+:link-type: doc
+{octicon}`tag;1em;caption-text` **FreedomBox**        
+^^^
+Use and reuse FreedomBox solutions
++++
+[More »](freedombox)
+:::
+
+
+:::{grid-item-card}
+:link: gnunet
+:link-type: doc
+{octicon}`stack;1em;caption-text` **GNUnet**        
+^^^
+Use and reuse GNUnet solutions
++++
+[More »](gnunet)
+:::
+
+
+:::{grid-item-card}
+:link: jami
+:link-type: doc
+{octicon}`tools;1em;caption-text` **Jami**        
+^^^
+Use and reuse Jami solutions
++++
+[More »](jami)
+:::
+
+
+:::{grid-item-card}
+:link: signal
+:link-type: doc
+{octicon}`hubot;1em;caption-text` **Signal**        
+^^^
+Use and reuse Signal solutions
++++
+[More »](signal)
 :::
 
 

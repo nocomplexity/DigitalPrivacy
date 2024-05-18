@@ -1,17 +1,17 @@
-# Scan Tools solutions 
+# Browsing Tools solutions 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: mozillamonitor
+:link: tor
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **Mozilla Monitor**        
+{octicon}`tag;1em;caption-text` **Tor**        
 ^^^
-Use and reuse Mozilla Monitor solutions
+Use and reuse Tor solutions
 +++
-[More »](mozillamonitor)
+[More »](tor)
 :::
 
 

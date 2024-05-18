@@ -1,17 +1,17 @@
-# Scan Tools solutions 
+# Authentication solutions 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: mozillamonitor
+:link: irma
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **Mozilla Monitor**        
+{octicon}`tools;1em;caption-text` **Irma**        
 ^^^
-Use and reuse Mozilla Monitor solutions
+Use and reuse Irma solutions
 +++
-[More »](mozillamonitor)
+[More »](irma)
 :::
 
 

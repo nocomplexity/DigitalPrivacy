@@ -72,7 +72,8 @@ repository:
 # Advanced and power-user settings
 sphinx:  
   config:
-    html_show_copyright: false
+    html_show_copyright: false    
+    html_last_updated_fmt: "" 
     napoleon_google_docstring: true
     napoleon_numpy_docstring: true
     html_theme_options:        
@@ -83,5 +84,5 @@ sphinx:
       use_issues_button: False           
       logo:
            text: <b>Simplify Digital Privacy</b>
-      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> (c)Copyright 2024.  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
-    
+      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> (c) Copyright 2024.  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
+      

@@ -5,29 +5,9 @@
 :gutter: 3 
 
 :::{grid-item-card}
-:link: detectiontools
-:link-type: doc
-{octicon}`note;1em;caption-text` **Detection Tools**        
-^^^
-Use and reuse Detection Tools solutions
-+++
-[More »](detectiontools)
-:::
-
-:::{grid-item-card}
-:link: collaborationtools
-:link-type: doc
-{octicon}`smiley;1em;caption-text` **Collaboration Tools**        
-^^^
-Use and reuse Collaboration Tools solutions
-+++
-[More »](collaborationtools)
-:::
-
-:::{grid-item-card}
 :link: communicationtools
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Communication Tools**        
+{octicon}`check-circle;1em;caption-text` **Communication Tools**        
 ^^^
 Use and reuse Communication Tools solutions
 +++
@@ -37,11 +17,51 @@ Use and reuse Communication Tools solutions
 :::{grid-item-card}
 :link: scantools
 :link-type: doc
-{octicon}`hubot;1em;caption-text` **Scan Tools**        
+{octicon}`bookmark;1em;caption-text` **Scan Tools**        
 ^^^
 Use and reuse Scan Tools solutions
 +++
 [More »](scantools)
+:::
+
+:::{grid-item-card}
+:link: detectiontools
+:link-type: doc
+{octicon}`smiley;1em;caption-text` **Detection Tools**        
+^^^
+Use and reuse Detection Tools solutions
++++
+[More »](detectiontools)
+:::
+
+:::{grid-item-card}
+:link: authentication
+:link-type: doc
+{octicon}`file;1em;caption-text` **Authentication**        
+^^^
+Use and reuse Authentication solutions
++++
+[More »](authentication)
+:::
+
+:::{grid-item-card}
+:link: browsingtools
+:link-type: doc
+{octicon}`check-circle;1em;caption-text` **Browsing Tools**        
+^^^
+Use and reuse Browsing Tools solutions
++++
+[More »](browsingtools)
+:::
+
+:::{grid-item-card}
+:link: collaborationtools
+:link-type: doc
+{octicon}`stack;1em;caption-text` **Collaboration Tools**        
+^^^
+Use and reuse Collaboration Tools solutions
++++
+[More »](collaborationtools)
 :::
 
 :::{grid-item-card}

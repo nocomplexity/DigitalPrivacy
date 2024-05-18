@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: cryptpad
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **CryptPad**        
+{octicon}`hubot;1em;caption-text` **CryptPad**        
 ^^^
 Use and reuse CryptPad solutions
 +++
