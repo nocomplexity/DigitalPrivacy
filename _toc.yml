@@ -17,11 +17,12 @@ parts:
     - file: communicationtools
     - file: detectiontools
     - file: encryptiontools
+    - file: mobile
     - file: scantools
 
 
 - caption: About
   chapters:
   - file: help
-  - file: bio  
+  - file: aboutus  
   - file: license

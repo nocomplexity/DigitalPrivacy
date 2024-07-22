@@ -7,11 +7,22 @@
 :::{grid-item-card}
 :link: cryptpad
 :link-type: doc
-{octicon}`hubot;1em;caption-text` **CryptPad**        
+{octicon}`smiley;1em;caption-text` **CryptPad**        
 ^^^
 Use and reuse CryptPad solutions
 +++
 [More »](cryptpad)
+:::
+
+
+:::{grid-item-card}
+:link: securedrop
+:link-type: doc
+{octicon}`telescope;1em;caption-text` **SecureDrop**        
+^^^
+Use and reuse SecureDrop solutions
++++
+[More »](securedrop)
 :::
 
 

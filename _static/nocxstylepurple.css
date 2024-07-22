@@ -22,7 +22,12 @@ html {
         --pst-color-danger: #f700ff;
         --pst-color-secondary: #000;
         --pst-color-primary: #f700ff;    
-        --pst-sidebar-font-size: 1.1rem;    
+        --pst-sidebar-font-size: 1.1rem;
+            
+}
+
+html[data-theme="light"] {
+  --pst-color-secondary: #f700ff;
 }
 
 .bd-article-container h1, .bd-article-container h2, .bd-article-container h3, .bd-article-container h4, .bd-article-container h5, .bd-article-container p.caption {

@@ -2,18 +2,18 @@
 
 
 
-```{image} https://github.com/freedomofpress/securedrop/raw/develop/securedrop/static/i/logo.png 
+```{image} https://raw.githubusercontent.com/freedomofpress/securedrop/develop/securedrop/static/i/logo.png 
 :width: 200px 
 :align: center 
 ```
 
 ## Description 
-SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept documents from, and communicate with anonymous sources. 
+SecureDrop is an open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources. 
 
 | Item |  Value |
 | ------ | ------ |
 | Solution Name | SecureDrop |
-| Category | Encryption Tools |
+| Category | Collaboration Tools |
 | Project Website | [https://securedrop.org/](https://securedrop.org/) |
 | Documentation | [https://docs.securedrop.org/en/stable/](https://docs.securedrop.org/en/stable/) |
 | License | AGPL-3.0 |
