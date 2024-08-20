@@ -20,6 +20,9 @@ parts:
     - file: mobile
     - file: scantools
 
+- caption: Guides
+  chapters:
+  - file: guides
 
 - caption: About
   chapters:

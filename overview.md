@@ -5,6 +5,46 @@
 :gutter: 3 
 
 :::{grid-item-card}
+:link: scantools
+:link-type: doc
+{octicon}`briefcase;1em;caption-text` **Scan Tools**        
+^^^
+Use and reuse Scan Tools solutions
++++
+[More »](scantools)
+:::
+
+:::{grid-item-card}
+:link: detectiontools
+:link-type: doc
+{octicon}`verified;1em;caption-text` **Detection Tools**        
+^^^
+Use and reuse Detection Tools solutions
++++
+[More »](detectiontools)
+:::
+
+:::{grid-item-card}
+:link: collaborationtools
+:link-type: doc
+{octicon}`briefcase;1em;caption-text` **Collaboration Tools**        
+^^^
+Use and reuse Collaboration Tools solutions
++++
+[More »](collaborationtools)
+:::
+
+:::{grid-item-card}
+:link: mobile
+:link-type: doc
+{octicon}`megaphone;1em;caption-text` **Mobile**        
+^^^
+Use and reuse Mobile solutions
++++
+[More »](mobile)
+:::
+
+:::{grid-item-card}
 :link: communicationtools
 :link-type: doc
 {octicon}`checklist;1em;caption-text` **Communication Tools**        
@@ -17,7 +57,7 @@ Use and reuse Communication Tools solutions
 :::{grid-item-card}
 :link: authentication
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Authentication**        
+{octicon}`megaphone;1em;caption-text` **Authentication**        
 ^^^
 Use and reuse Authentication solutions
 +++
@@ -27,7 +67,7 @@ Use and reuse Authentication solutions
 :::{grid-item-card}
 :link: browsingtools
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Browsing Tools**        
+{octicon}`book;1em;caption-text` **Browsing Tools**        
 ^^^
 Use and reuse Browsing Tools solutions
 +++
@@ -35,53 +75,13 @@ Use and reuse Browsing Tools solutions
 :::
 
 :::{grid-item-card}
-:link: collaborationtools
-:link-type: doc
-{octicon}`verified;1em;caption-text` **Collaboration Tools**        
-^^^
-Use and reuse Collaboration Tools solutions
-+++
-[More »](collaborationtools)
-:::
-
-:::{grid-item-card}
 :link: encryptiontools
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Encryption Tools**        
+{octicon}`check-circle;1em;caption-text` **Encryption Tools**        
 ^^^
 Use and reuse Encryption Tools solutions
 +++
 [More »](encryptiontools)
-:::
-
-:::{grid-item-card}
-:link: detectiontools
-:link-type: doc
-{octicon}`eye;1em;caption-text` **Detection Tools**        
-^^^
-Use and reuse Detection Tools solutions
-+++
-[More »](detectiontools)
-:::
-
-:::{grid-item-card}
-:link: scantools
-:link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Scan Tools**        
-^^^
-Use and reuse Scan Tools solutions
-+++
-[More »](scantools)
-:::
-
-:::{grid-item-card}
-:link: mobile
-:link-type: doc
-{octicon}`verified;1em;caption-text` **Mobile**        
-^^^
-Use and reuse Mobile solutions
-+++
-[More »](mobile)
 :::
 
 ::::

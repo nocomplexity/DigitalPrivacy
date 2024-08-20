@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: amiunique
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Amiunique**        
+{octicon}`eye;1em;caption-text` **Amiunique**        
 ^^^
 Use and reuse Amiunique solutions
 +++

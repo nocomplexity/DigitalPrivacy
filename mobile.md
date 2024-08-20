@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: f-droid
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **F-Droid**        
+{octicon}`project;1em;caption-text` **F-Droid**        
 ^^^
 Use and reuse F-Droid solutions
 +++
