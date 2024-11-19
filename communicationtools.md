@@ -1,4 +1,4 @@
-# Communication Tools solutions 
+# Communication Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: whonix
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **Whonix**        
+{octicon}`checklist;1em;caption-text` **Whonix**        
 ^^^
 Use and reuse Whonix solutions
 +++
@@ -18,7 +18,7 @@ Use and reuse Whonix solutions
 :::{grid-item-card}
 :link: briar
 :link-type: doc
-{octicon}`project;1em;caption-text` **Briar**        
+{octicon}`book;1em;caption-text` **Briar**        
 ^^^
 Use and reuse Briar solutions
 +++
@@ -29,7 +29,7 @@ Use and reuse Briar solutions
 :::{grid-item-card}
 :link: diaspora
 :link-type: doc
-{octicon}`verified;1em;caption-text` **Diaspora**        
+{octicon}`file;1em;caption-text` **Diaspora**        
 ^^^
 Use and reuse Diaspora solutions
 +++
@@ -40,7 +40,7 @@ Use and reuse Diaspora solutions
 :::{grid-item-card}
 :link: freedombox
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **FreedomBox**        
+{octicon}`briefcase;1em;caption-text` **FreedomBox**        
 ^^^
 Use and reuse FreedomBox solutions
 +++
@@ -62,7 +62,7 @@ Use and reuse GNUnet solutions
 :::{grid-item-card}
 :link: jami
 :link-type: doc
-{octicon}`package;1em;caption-text` **Jami**        
+{octicon}`book;1em;caption-text` **Jami**        
 ^^^
 Use and reuse Jami solutions
 +++
@@ -73,7 +73,7 @@ Use and reuse Jami solutions
 :::{grid-item-card}
 :link: signal
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Signal**        
+{octicon}`hubot;1em;caption-text` **Signal**        
 ^^^
 Use and reuse Signal solutions
 +++
@@ -84,11 +84,22 @@ Use and reuse Signal solutions
 :::{grid-item-card}
 :link: nomadnetwork
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **Nomad Network**        
+{octicon}`briefcase;1em;caption-text` **Nomad Network**        
 ^^^
 Use and reuse Nomad Network solutions
 +++
 [More »](nomadnetwork)
+:::
+
+
+:::{grid-item-card}
+:link: simplex
+:link-type: doc
+{octicon}`stack;1em;caption-text` **SimpleX**        
+^^^
+Use and reuse SimpleX solutions
++++
+[More »](simplex)
 :::
 
 

@@ -13,12 +13,14 @@ parts:
     sections:
     - file: authentication
     - file: browsingtools
+    - file: businesstools
     - file: collaborationtools
     - file: communicationtools
     - file: detectiontools
     - file: encryptiontools
     - file: mobile
     - file: scantools
+
 
 - caption: Guides
   chapters:

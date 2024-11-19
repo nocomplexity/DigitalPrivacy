@@ -1,4 +1,4 @@
-# Collaboration Tools solutions 
+# Collaboration Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: cryptpad
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **CryptPad**        
+{octicon}`megaphone;1em;caption-text` **CryptPad**        
 ^^^
 Use and reuse CryptPad solutions
 +++
@@ -18,7 +18,7 @@ Use and reuse CryptPad solutions
 :::{grid-item-card}
 :link: securedrop
 :link-type: doc
-{octicon}`telescope;1em;caption-text` **SecureDrop**        
+{octicon}`project;1em;caption-text` **SecureDrop**        
 ^^^
 Use and reuse SecureDrop solutions
 +++
@@ -29,7 +29,7 @@ Use and reuse SecureDrop solutions
 :::{grid-item-card}
 :link: framasoftsuite
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **Framasoft Suite**        
+{octicon}`megaphone;1em;caption-text` **Framasoft Suite**        
 ^^^
 Use and reuse Framasoft Suite solutions
 +++

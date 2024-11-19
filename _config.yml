@@ -5,7 +5,7 @@
 #######################################################################################
 # Book settings
 title                       : Simplify Digital Privacy  # The title of the book. Will be placed in the left navbar.
-author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a>' # The author of the book
+author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a> and all contributors.' # The author of the book
 copyright                   : '2024- Maikel Mardjan -Business Management Support Foundation (bm-support.org'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # Path nocx book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
@@ -41,8 +41,7 @@ html:
   
   extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2024, BM-Support.org - Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
   extra_navbar              : '<a href="https://bm-support.org/"><b>ROI Now!</b></a>'
-
-  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
   baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:

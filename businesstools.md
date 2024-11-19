@@ -1,17 +1,17 @@
-# Detection Tools 
+# Business Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: amiunique
+:link: mat2
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Amiunique**        
+{octicon}`briefcase;1em;caption-text` **MAT2**        
 ^^^
-Use and reuse Amiunique solutions
+Use and reuse MAT2 solutions
 +++
-[More »](amiunique)
+[More »](mat2)
 :::
 
 

@@ -1,4 +1,4 @@
-# Mobile solutions 
+# Mobile 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: f-droid
 :link-type: doc
-{octicon}`project;1em;caption-text` **F-Droid**        
+{octicon}`bookmark;1em;caption-text` **F-Droid**        
 ^^^
 Use and reuse F-Droid solutions
 +++

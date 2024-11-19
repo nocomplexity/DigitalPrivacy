@@ -1,4 +1,4 @@
-# Browsing Tools solutions 
+# Browsing Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: tor
 :link-type: doc
-{octicon}`heart;1em;caption-text` **Tor**        
+{octicon}`book;1em;caption-text` **Tor**        
 ^^^
 Use and reuse Tor solutions
 +++

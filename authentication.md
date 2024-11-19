@@ -1,4 +1,4 @@
-# Authentication solutions 
+# Authentication 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: irma
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Irma**        
+{octicon}`briefcase;1em;caption-text` **Irma**        
 ^^^
 Use and reuse Irma solutions
 +++

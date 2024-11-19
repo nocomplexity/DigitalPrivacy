@@ -1,4 +1,4 @@
-# Scan Tools solutions 
+# Scan Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: mozillamonitor
 :link-type: doc
-{octicon}`stack;1em;caption-text` **Mozilla Monitor**        
+{octicon}`verified;1em;caption-text` **Mozilla Monitor**        
 ^^^
 Use and reuse Mozilla Monitor solutions
 +++

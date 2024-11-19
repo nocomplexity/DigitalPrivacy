@@ -1,4 +1,4 @@
-# Encryption Tools solutions 
+# Encryption Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: securedrop
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **SecureDrop**        
+{octicon}`checklist;1em;caption-text` **SecureDrop**        
 ^^^
 Use and reuse SecureDrop solutions
 +++
@@ -18,7 +18,7 @@ Use and reuse SecureDrop solutions
 :::{grid-item-card}
 :link: cloak
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **Cloak**        
+{octicon}`briefcase;1em;caption-text` **Cloak**        
 ^^^
 Use and reuse Cloak solutions
 +++
@@ -40,7 +40,7 @@ Use and reuse Databunker solutions
 :::{grid-item-card}
 :link: etebase
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Etebase**        
+{octicon}`tools;1em;caption-text` **Etebase**        
 ^^^
 Use and reuse Etebase solutions
 +++
