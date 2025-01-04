@@ -1,17 +1,17 @@
-# Business Tools 
+# Browsing Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: mat2
+:link: tor
 :link-type: doc
-{octicon}`tag;1em;caption-text` **MAT2**        
+{octicon}`book;1em;caption-text` **Tor**        
 ^^^
-Use and reuse MAT2 solutions
+Use and reuse Tor solutions
 +++
-[More »](mat2)
+[More »](tor)
 :::
 
 

@@ -9,17 +9,17 @@ parts:
   - file: foundations
 - caption: Privacy solutions
   chapters:
-  - file: overview
+  - file: tools/overview
     sections:
-    - file: authentication
-    - file: browsingtools
-    - file: businesstools
-    - file: collaborationtools
-    - file: communicationtools
-    - file: detectiontools
-    - file: encryptiontools
-    - file: mobile
-    - file: scantools
+    - file: tools/authentication
+    - file: tools/browsingtools
+    - file: tools/businesstools
+    - file: tools/collaborationtools
+    - file: tools/communicationtools
+    - file: tools/detectiontools
+    - file: tools/encryptiontools
+    - file: tools/mobile
+    - file: tools/scantools
 
 
 - caption: Guides

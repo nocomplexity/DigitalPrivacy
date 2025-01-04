@@ -1,17 +1,17 @@
-# Authentication 
+# Mobile 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: irma
+:link: f-droid
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **Irma**        
+{octicon}`bookmark;1em;caption-text` **F-Droid**        
 ^^^
-Use and reuse Irma solutions
+Use and reuse F-Droid solutions
 +++
-[More »](irma)
+[More »](f-droid)
 :::
 
 

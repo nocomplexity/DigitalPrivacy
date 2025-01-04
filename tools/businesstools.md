@@ -1,17 +1,17 @@
-# Mobile 
+# Business Tools 
 % <Start Generation of cards> 
 ::::{grid} 3
 :class-container: text-center
 :gutter: 3 
 
 :::{grid-item-card}
-:link: f-droid
+:link: mat2
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **F-Droid**        
+{octicon}`bookmark;1em;caption-text` **MAT2**        
 ^^^
-Use and reuse F-Droid solutions
+Use and reuse MAT2 solutions
 +++
-[More »](f-droid)
+[More »](mat2)
 :::
 
 
