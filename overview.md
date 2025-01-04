@@ -5,39 +5,29 @@
 :gutter: 3 
 
 :::{grid-item-card}
-:link: communicationtools
+:link: detectiontools
 :link-type: doc
-{octicon}`project;1em;caption-text` **Communication Tools**        
+{octicon}`file;1em;caption-text` **Detection Tools**        
 ^^^
-Use and reuse Communication Tools solutions
+Use and reuse Detection Tools solutions
 +++
-[More »](communicationtools)
+[More »](detectiontools)
 :::
 
 :::{grid-item-card}
-:link: mobile
+:link: browsingtools
 :link-type: doc
-{octicon}`book;1em;caption-text` **Mobile**        
+{octicon}`file;1em;caption-text` **Browsing Tools**        
 ^^^
-Use and reuse Mobile solutions
+Use and reuse Browsing Tools solutions
 +++
-[More »](mobile)
-:::
-
-:::{grid-item-card}
-:link: collaborationtools
-:link-type: doc
-{octicon}`tag;1em;caption-text` **Collaboration Tools**        
-^^^
-Use and reuse Collaboration Tools solutions
-+++
-[More »](collaborationtools)
+[More »](browsingtools)
 :::
 
 :::{grid-item-card}
 :link: authentication
 :link-type: doc
-{octicon}`eye;1em;caption-text` **Authentication**        
+{octicon}`book;1em;caption-text` **Authentication**        
 ^^^
 Use and reuse Authentication solutions
 +++
@@ -55,29 +45,9 @@ Use and reuse Encryption Tools solutions
 :::
 
 :::{grid-item-card}
-:link: browsingtools
-:link-type: doc
-{octicon}`checklist;1em;caption-text` **Browsing Tools**        
-^^^
-Use and reuse Browsing Tools solutions
-+++
-[More »](browsingtools)
-:::
-
-:::{grid-item-card}
-:link: businesstools
-:link-type: doc
-{octicon}`package;1em;caption-text` **Business Tools**        
-^^^
-Use and reuse Business Tools solutions
-+++
-[More »](businesstools)
-:::
-
-:::{grid-item-card}
 :link: scantools
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **Scan Tools**        
+{octicon}`file;1em;caption-text` **Scan Tools**        
 ^^^
 Use and reuse Scan Tools solutions
 +++
@@ -85,13 +55,43 @@ Use and reuse Scan Tools solutions
 :::
 
 :::{grid-item-card}
-:link: detectiontools
+:link: collaborationtools
 :link-type: doc
-{octicon}`file;1em;caption-text` **Detection Tools**        
+{octicon}`megaphone;1em;caption-text` **Collaboration Tools**        
 ^^^
-Use and reuse Detection Tools solutions
+Use and reuse Collaboration Tools solutions
 +++
-[More »](detectiontools)
+[More »](collaborationtools)
+:::
+
+:::{grid-item-card}
+:link: mobile
+:link-type: doc
+{octicon}`book;1em;caption-text` **Mobile**        
+^^^
+Use and reuse Mobile solutions
++++
+[More »](mobile)
+:::
+
+:::{grid-item-card}
+:link: communicationtools
+:link-type: doc
+{octicon}`eye;1em;caption-text` **Communication Tools**        
+^^^
+Use and reuse Communication Tools solutions
++++
+[More »](communicationtools)
+:::
+
+:::{grid-item-card}
+:link: businesstools
+:link-type: doc
+{octicon}`cross-reference;1em;caption-text` **Business Tools**        
+^^^
+Use and reuse Business Tools solutions
++++
+[More »](businesstools)
 :::
 
 ::::

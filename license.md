@@ -4,7 +4,7 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 See http://creativecommons.org/licenses/by-sa/4.0/ for the full license text. 
 
-Copyright (c) 2024 BM-Support.org - Maikel Mardjan and all contributors.
+Copyright (c) 2024-2025 BM-Support.org - Maikel Mardjan and all contributors.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike
 4.0 International License. Third-party product names may be the

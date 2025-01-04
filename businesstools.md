@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: mat2
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **MAT2**        
+{octicon}`tag;1em;caption-text` **MAT2**        
 ^^^
 Use and reuse MAT2 solutions
 +++

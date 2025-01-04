@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: amiunique
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Amiunique**        
+{octicon}`checklist;1em;caption-text` **Amiunique**        
 ^^^
 Use and reuse Amiunique solutions
 +++

@@ -18,7 +18,7 @@ However, many governmental  organisations and commercial businesses have not eno
 ```{admonition} Your input!
 :class: tip, dropdown
 
-If you have input that you think should be included in this Digital Playbook on Privacy, just send a email to me! 
+If you have input that you think should be included in this Digital Playbook on Privacy, just send an email to me! 
 
 ```
 

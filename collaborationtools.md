@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: cryptpad
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **CryptPad**        
+{octicon}`heart;1em;caption-text` **CryptPad**        
 ^^^
 Use and reuse CryptPad solutions
 +++
@@ -18,7 +18,7 @@ Use and reuse CryptPad solutions
 :::{grid-item-card}
 :link: securedrop
 :link-type: doc
-{octicon}`project;1em;caption-text` **SecureDrop**        
+{octicon}`megaphone;1em;caption-text` **SecureDrop**        
 ^^^
 Use and reuse SecureDrop solutions
 +++
