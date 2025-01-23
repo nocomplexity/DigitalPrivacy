@@ -8,7 +8,7 @@ In this section an opinionated list of great resources. Only resources published
 
 :::{grid-item-card}
 :link: https://zolagonano.github.io/a-ninjas-handbook/
-{octicon}`briefcase;1em;caption-text` **A Ninja's Handbook**        
+{octicon}`tag;1em;caption-text` **A Ninja's Handbook**        
 ^^^
 This is a book on anonymity and privacy in this lush forest full of data hunters called the internet.
 +++
@@ -17,7 +17,7 @@ This is a book on anonymity and privacy in this lush forest full of data hunters
 
 :::{grid-item-card}
 :link: https://www.cs.ru.nl/~jhh/blue-book.html
-{octicon}`briefcase;1em;caption-text` **The Little Blue Book**        
+{octicon}`checklist;1em;caption-text` **The Little Blue Book**        
 ^^^
 This book describes eight privacy design strategies. Every strategy is briefly explained and illustrated through several practical examples. A few concrete technologies that can be used to implement each strategy are also mentioned.
 +++
@@ -26,7 +26,7 @@ This book describes eight privacy design strategies. Every strategy is briefly e
 
 :::{grid-item-card}
 :link: https://privacyinternational.org/act/protect-yourself-online-tracking
-{octicon}`project;1em;caption-text` **Protect yourself from online tracking**        
+{octicon}`verified;1em;caption-text` **Protect yourself from online tracking**        
 ^^^
  Learn how to limit your data from being collected unwillingly and disrupt the tracking industry!
 +++
@@ -35,7 +35,7 @@ This book describes eight privacy design strategies. Every strategy is briefly e
 
 :::{grid-item-card}
 :link: https://www.digitalrightsbytes.org/
-{octicon}`hubot;1em;caption-text` **Digital Rights Bytes**        
+{octicon}`tools;1em;caption-text` **Digital Rights Bytes**        
 ^^^
 Guide with simple videos about how and why technology and the digital world works the way it does. 
 +++

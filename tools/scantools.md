@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: mozillamonitor
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **Mozilla Monitor**        
+{octicon}`tag;1em;caption-text` **Mozilla Monitor**        
 ^^^
 Use and reuse Mozilla Monitor solutions
 +++

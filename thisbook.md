@@ -1,4 +1,4 @@
-# About
+# Why this Playbook
 
 Simplify Digital Privacy a collaborative platform for curating, building and discovering open simple privacy solutions. Everyone is welcome to contribute to this grassroots collective!
 
@@ -16,9 +16,9 @@ The mission of the Simplify Privacy Platform is to analyse, curate, build, and d
 
 This Digital Privacy Collective is depended of people like you! Since all our contributors are keen on privacy most contributors operate out of the spotlights.
 
-### Core maintainers
 
-### Maikel 
+
+### Maikel (Core maintainer)
 
 Maikels mission is to empower you with knowledge and tools to create great technology solutions that are open and beneficial and reachable for everyone. 
 

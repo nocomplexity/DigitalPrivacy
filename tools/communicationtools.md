@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: whonix
 :link-type: doc
-{octicon}`package;1em;caption-text` **Whonix**        
+{octicon}`telescope;1em;caption-text` **Whonix**        
 ^^^
 Use and reuse Whonix solutions
 +++
@@ -18,7 +18,7 @@ Use and reuse Whonix solutions
 :::{grid-item-card}
 :link: briar
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Briar**        
+{octicon}`note;1em;caption-text` **Briar**        
 ^^^
 Use and reuse Briar solutions
 +++
@@ -29,7 +29,7 @@ Use and reuse Briar solutions
 :::{grid-item-card}
 :link: diaspora
 :link-type: doc
-{octicon}`heart;1em;caption-text` **Diaspora**        
+{octicon}`project;1em;caption-text` **Diaspora**        
 ^^^
 Use and reuse Diaspora solutions
 +++
@@ -40,7 +40,7 @@ Use and reuse Diaspora solutions
 :::{grid-item-card}
 :link: freedombox
 :link-type: doc
-{octicon}`bookmark;1em;caption-text` **FreedomBox**        
+{octicon}`briefcase;1em;caption-text` **FreedomBox**        
 ^^^
 Use and reuse FreedomBox solutions
 +++
@@ -51,7 +51,7 @@ Use and reuse FreedomBox solutions
 :::{grid-item-card}
 :link: gnunet
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **GNUnet**        
+{octicon}`file;1em;caption-text` **GNUnet**        
 ^^^
 Use and reuse GNUnet solutions
 +++
@@ -62,7 +62,7 @@ Use and reuse GNUnet solutions
 :::{grid-item-card}
 :link: jami
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Jami**        
+{octicon}`stack;1em;caption-text` **Jami**        
 ^^^
 Use and reuse Jami solutions
 +++
@@ -73,7 +73,7 @@ Use and reuse Jami solutions
 :::{grid-item-card}
 :link: signal
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Signal**        
+{octicon}`megaphone;1em;caption-text` **Signal**        
 ^^^
 Use and reuse Signal solutions
 +++
@@ -84,7 +84,7 @@ Use and reuse Signal solutions
 :::{grid-item-card}
 :link: nomadnetwork
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Nomad Network**        
+{octicon}`eye;1em;caption-text` **Nomad Network**        
 ^^^
 Use and reuse Nomad Network solutions
 +++
@@ -95,7 +95,7 @@ Use and reuse Nomad Network solutions
 :::{grid-item-card}
 :link: simplex
 :link-type: doc
-{octicon}`hubot;1em;caption-text` **SimpleX**        
+{octicon}`package;1em;caption-text` **SimpleX**        
 ^^^
 Use and reuse SimpleX solutions
 +++
@@ -106,7 +106,7 @@ Use and reuse SimpleX solutions
 :::{grid-item-card}
 :link: nostr
 :link-type: doc
-{octicon}`verified;1em;caption-text` **Nostr**        
+{octicon}`light-bulb;1em;caption-text` **Nostr**        
 ^^^
 Use and reuse Nostr solutions
 +++

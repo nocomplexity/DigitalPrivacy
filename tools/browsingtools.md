@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: tor
 :link-type: doc
-{octicon}`book;1em;caption-text` **Tor**        
+{octicon}`thumbsup;1em;caption-text` **Tor**        
 ^^^
 Use and reuse Tor solutions
 +++

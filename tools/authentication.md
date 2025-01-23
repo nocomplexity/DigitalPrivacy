@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: irma
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Irma**        
+{octicon}`tag;1em;caption-text` **Irma**        
 ^^^
 Use and reuse Irma solutions
 +++

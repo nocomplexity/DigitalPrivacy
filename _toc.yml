@@ -8,7 +8,8 @@ parts:
   - file: security-or-privacy
   - file: foundations
 - caption: Privacy solutions
-  chapters:
+  chapters:  
+  - file: overviewintro
   - file: tools/overview
     sections:
     - file: tools/authentication
@@ -22,12 +23,19 @@ parts:
     - file: tools/scantools
 
 
-- caption: Guides
+- caption: Guides, Books and more
   chapters:
-  - file: guides
+  - file: generatedfiles/overview
+    sections:
+    - file: generatedfiles/books
+    - file: generatedfiles/guides
+    - file: generatedfiles/frameworks
+    - file: generatedfiles/governments
+
 
 - caption: About
   chapters:
   - file: help
-  - file: aboutus  
+  - file: thisbook  
+  - file: about
   - file: license
