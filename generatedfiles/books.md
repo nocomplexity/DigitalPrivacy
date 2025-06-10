@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://zolagonano.github.io/a-ninjas-handbook/ 
-{octicon}`project;1em;caption-text` **A Ninja's Handbook**
+{octicon}`file;1em;caption-text` **A Ninja's Handbook**
 ^^^
 This is a book on anonymity and privacy in this lush forest full of data hunters called the internet.
 +++
@@ -18,7 +18,7 @@ This is a book on anonymity and privacy in this lush forest full of data hunters
 
 :::{grid-item-card}
 :link: https://privacyinternational.org/act/protect-yourself-online-tracking 
-{octicon}`eye;1em;caption-text` **Protect yourself from online tracking**
+{octicon}`hubot;1em;caption-text` **Protect yourself from online tracking**
 ^^^
  Learn how to limit your data from being collected unwillingly and disrupt the tracking industry!
 +++
@@ -28,7 +28,7 @@ This is a book on anonymity and privacy in this lush forest full of data hunters
 
 :::{grid-item-card}
 :link: https://www.cs.ru.nl/~jhh/blue-book.html 
-{octicon}`note;1em;caption-text` **The Little Blue Book**
+{octicon}`bookmark;1em;caption-text` **The Little Blue Book**
 ^^^
 This book describes eight privacy design strategies. Every strategy is briefly explained and illustrated through several practical examples. A few concrete technologies that can be used to implement each strategy are also mentioned.
 +++

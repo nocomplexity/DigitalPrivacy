@@ -7,8 +7,22 @@
 :gutter: 2
 
 :::{grid-item-card}
+:link: https://linddun.org/ 
+{octicon}`megaphone;1em;caption-text` **LINDDUN - PRIVACY THREAT MODELING**
+^^^
+
+```{image} https://linddun.org/wp-content/uploads/2023/04/LINDDUN-Logo-Long-1.png 
+:height: 100px 
+```
+LINDDUN is a recognized privacy threat modeling framework, developed by privacy experts at KU Leuven. It offers mature support to identify and mitigate privacy threats early in the development lifecycle. Adopting LINDDUN can therefore help build privacy into the system’s core.
++++
+[Read more or use this reference »](https://linddun.org/)
+:::
+
+
+:::{grid-item-card}
 :link: https://privacypatterns.org/ 
-{octicon}`bookmark;1em;caption-text` **Privacy patterns**
+{octicon}`eye;1em;caption-text` **Privacy patterns**
 ^^^
 Privacy patterns are design solutions to common privacy problems 
 +++
@@ -18,7 +32,7 @@ Privacy patterns are design solutions to common privacy problems
 
 :::{grid-item-card}
 :link: https://www.nist.gov/privacy-framework 
-{octicon}`zap;1em;caption-text` **The NIST Privacy Framework**
+{octicon}`project;1em;caption-text` **The NIST Privacy Framework**
 ^^^
 The NIST Privacy Framework is a voluntary tool developed in collaboration with stakeholders intended to help organizations identify and manage privacy risk to build innovative products and services while protecting individuals’ privacy.
 +++

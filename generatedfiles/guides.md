@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://guides.masslibsystem.org/digital-privacy-and-technology/big-tech-alternatives 
-{octicon}`briefcase;1em;caption-text` **Digital Privacy & Technology Guide: Big Tech Alternatives**
+{octicon}`tools;1em;caption-text` **Digital Privacy & Technology Guide: Big Tech Alternatives**
 ^^^
 This guide provides an overview of digital privacy and the tools needed to protect libraries and its users, and thwart surveillance of our communities. This guide was developed by Library Freedom Project and Massachusetts Library Association.
 +++
@@ -18,7 +18,7 @@ This guide provides an overview of digital privacy and the tools needed to prote
 
 :::{grid-item-card}
 :link: https://libguides.rowan.edu/digitalprivacy 
-{octicon}`project;1em;caption-text` **Digital Privacy: Awareness, Action, and Practice**
+{octicon}`tag;1em;caption-text` **Digital Privacy: Awareness, Action, and Practice**
 ^^^
 This guide challenges the statement, "Privacy is dead." . Resources, best practices, and key concepts related to digital privacy
 +++
@@ -28,7 +28,7 @@ This guide challenges the statement, "Privacy is dead." . Resources, best practi
 
 :::{grid-item-card}
 :link: https://www.digitalrightsbytes.org/ 
-{octicon}`stack;1em;caption-text` **Digital Rights Bytes**
+{octicon}`cross-reference;1em;caption-text` **Digital Rights Bytes**
 ^^^
 Guide with simple videos about how and why technology and the digital world works the way it does. 
 +++
@@ -38,7 +38,7 @@ Guide with simple videos about how and why technology and the digital world work
 
 :::{grid-item-card}
 :link: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/handling-personal-information/guide-to-securing-personal-information 
-{octicon}`book;1em;caption-text` **Guide to securing personal information**
+{octicon}`file;1em;caption-text` **Guide to securing personal information**
 ^^^
 This ‘Guide to Securing Personal Information’ (Guide) provides guidance on the reasonable steps entities are required to take under the Australian Privacy Act/
 +++
@@ -48,7 +48,7 @@ This ‘Guide to Securing Personal Information’ (Guide) provides guidance on t
 
 :::{grid-item-card}
 :link: https://www.w3.org/TR/fingerprinting-guidance/ 
-{octicon}`bookmark;1em;caption-text` **Mitigating Browser Fingerprinting in Web Specifications**
+{octicon}`package;1em;caption-text` **Mitigating Browser Fingerprinting in Web Specifications**
 ^^^
 This document defines different types of fingerprinting, considers distinct levels of mitigation for the related privacy risks and provides guidance for Web specification authors on how to balance these concerns when designing new Web features. 
 +++

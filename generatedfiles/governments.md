@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/handling-personal-information/guide-to-securing-personal-information 
-{octicon}`cross-reference;1em;caption-text` **Guide to securing personal information**
+{octicon}`report;1em;caption-text` **Guide to securing personal information**
 ^^^
 This ‘Guide to Securing Personal Information’ (Guide) provides guidance on the reasonable steps entities are required to take under the Australian Privacy Act/
 +++
@@ -28,7 +28,7 @@ Great collection of Privacy guides of Australia government.
 
 :::{grid-item-card}
 :link: https://www.priv.gc.ca/en/privacy-topics/ 
-{octicon}`book;1em;caption-text` **Privacy topics**
+{octicon}`hubot;1em;caption-text` **Privacy topics**
 ^^^
 variety of useful information for individuals, businesses and federal institutions on privacy of the Privacy Commissioner of Canada.
 +++
