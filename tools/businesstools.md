@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: mat2
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **MAT2**        
+{octicon}`smiley;1em;caption-text` **MAT2**        
 ^^^
 Use and reuse MAT2 solutions
 +++

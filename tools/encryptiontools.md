@@ -7,7 +7,7 @@
 :::{grid-item-card}
 :link: securedrop
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **SecureDrop**        
+{octicon}`file;1em;caption-text` **SecureDrop**        
 ^^^
 Use and reuse SecureDrop solutions
 +++
@@ -18,7 +18,7 @@ Use and reuse SecureDrop solutions
 :::{grid-item-card}
 :link: cloak
 :link-type: doc
-{octicon}`verified;1em;caption-text` **Cloak**        
+{octicon}`check-circle;1em;caption-text` **Cloak**        
 ^^^
 Use and reuse Cloak solutions
 +++
@@ -29,7 +29,7 @@ Use and reuse Cloak solutions
 :::{grid-item-card}
 :link: databunker
 :link-type: doc
-{octicon}`book;1em;caption-text` **Databunker**        
+{octicon}`stack;1em;caption-text` **Databunker**        
 ^^^
 Use and reuse Databunker solutions
 +++
@@ -40,11 +40,22 @@ Use and reuse Databunker solutions
 :::{grid-item-card}
 :link: etebase
 :link-type: doc
-{octicon}`verified;1em;caption-text` **Etebase**        
+{octicon}`telescope;1em;caption-text` **Etebase**        
 ^^^
 Use and reuse Etebase solutions
 +++
 [More »](etebase)
+:::
+
+
+:::{grid-item-card}
+:link: libreswan
+:link-type: doc
+{octicon}`light-bulb;1em;caption-text` **Libreswan**        
+^^^
+Use and reuse Libreswan solutions
++++
+[More »](libreswan)
 :::
 
 

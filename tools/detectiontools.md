@@ -7,11 +7,22 @@
 :::{grid-item-card}
 :link: amiunique
 :link-type: doc
-{octicon}`smiley;1em;caption-text` **Amiunique**        
+{octicon}`briefcase;1em;caption-text` **Amiunique**        
 ^^^
 Use and reuse Amiunique solutions
 +++
 [More »](amiunique)
+:::
+
+
+:::{grid-item-card}
+:link: rayhunter
+:link-type: doc
+{octicon}`eye;1em;caption-text` **Rayhunter**        
+^^^
+Use and reuse Rayhunter solutions
++++
+[More »](rayhunter)
 :::
 
 
